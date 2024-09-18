@@ -9,7 +9,7 @@ Technology Stack: Wordpress, Wordpress Plugins <br>
 
 <h2>Features</h2>
 <ul>
-    <li><strong>Landing Page:</strong> To display the website's theme and </li>
+    <li><strong>Landing Page:</strong> To display the website's theme and show off various services </li>
     <li><strong>Products Page:</strong> A grid layout featuring all of the products sold on Gourmet Galaxy</li>
     <li><strong>Cart Utilisation</strong> To forward the products to the cart and show off the prototype of buying products </li>
     <li><strong>About Us Page</strong> Include information about the fictional owner of the estabilishment</li>
