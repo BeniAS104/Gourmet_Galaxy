@@ -1,5 +1,5 @@
-<h1>Gourmet Galaxy</h1>
-An e-commerce website made for a project in Business Academy Aarhus, utilizing Wordpress, Wordpress Plugins, SEO, and custom CSS to tamper with the adjust the design to our design manual.
+# [Gourmet Galaxy](https://e-commerce.mila-hristova.com/)
+An e-commerce website made for a project in Business Academy Aarhus, utilizing Wordpress, Wordpress Plugins, SEO, and custom CSS to tamper with the adjust the design to our design manual. A myriad of plugins aided us in creating Gourmet Galaxy, which then got put on one of my teammates domains.
 
 <h2>Project Brief</h2>
 Type: Web Development, UX/UI, CMS Usage <br>
